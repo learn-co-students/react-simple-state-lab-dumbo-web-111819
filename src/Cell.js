@@ -1,5 +1,4 @@
 import React from 'react'
-import Matrix from './Matrix'
 
 export default class Cell extends React.Component{
 
